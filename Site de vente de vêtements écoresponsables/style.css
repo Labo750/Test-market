@@ -1,0 +1,496 @@
+#bannière{
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 25%;
+}
+
+#titre{
+    color: goldenrod;
+    position: absolute;
+    z-index: 2;
+    left: 40%;
+    font-size: 100;
+    top: -10;
+    box-shadow: 0 0 50px rgb(0, 66, 0);
+}
+
+#propos{
+    position: absolute;
+    z-index: 1;
+    top: 85%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 15%;
+}
+
+#inventaire{
+    position: absolute;
+    z-index: 1;
+    top: 20;
+    left: 1780;
+    right: 10;
+    width: 5%;
+    height: 10%;
+    font-size: large;
+}
+
+#inventaire:hover{
+    transform: scale(1.2);
+}
+
+#escape{
+    position: absolute;
+    z-index: 1;
+    top: 150;
+    left: 1790;
+    right: 10;
+    width: 5%;
+    height: 10%;
+    font-size: large;
+}
+
+#escape:hover{
+    transform: scale(1.2);
+}
+
+h2{
+    color: white;
+    position: absolute;
+    z-index: 2;
+    top: 85%;
+}
+
+#h2a{
+    color: greenyellow;
+    left: 1180;
+}
+
+#h2b{
+    left: 1225;
+}
+#youtube{
+    color: red;
+    position: absolute;
+    z-index: 2;
+    top: 92%;
+    font-size: x-large;
+}
+
+#instagram{
+    position: absolute;
+    z-index: 2;
+    top: 92%;
+    left: 6%;
+    font-size: x-large;
+    animation: color 5s infinite;
+}
+
+@keyframes color{
+    0%{color: blue;}
+    25%{color: pink;}
+    50%{color: purple;}
+    75%{color: orange;}
+    100%{color: yellow;}
+}
+
+#boutique{
+    position: absolute;
+    z-index: 1;
+    top: 35%;
+    left: 100;
+    right: 0;
+    bottom: 0;
+    width: 25%;
+    height: 35%;
+    box-shadow: 0 0 5px black, 0 0 25px black;
+}
+
+#boutique:hover{
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white;
+}
+
+#collection{
+    position: absolute;
+    z-index: 1;
+    top: 30%;
+    left: 800;
+    right: 0;
+    bottom: 0;
+    width: 15%;
+    height: 50%;
+    box-shadow: 0 0 5px black, 0 0 25px black;
+}
+
+#collection:hover{
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white;
+}
+
+#acheter{
+    position: absolute;
+    z-index: 1;
+    top: 35%;
+    left: 1300;
+    right: 0;
+    bottom: 0;
+    width: 25%;
+    height: 35%;
+    box-shadow: 0 0 5px black, 0 0 25px black;
+}
+
+#acheter:hover{
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white;
+}
+
+#h3a{
+    box-shadow: 0 0 20px black;
+    color: green;
+    position: absolute;
+    z-index: 2;
+    left: 13%;
+    font-size: 40;
+    top: 210;
+}
+
+#h3b{
+    box-shadow: 0 0 20px black;
+    color: green;
+    position: absolute;
+    z-index: 2;
+    left: 850;
+    font-size: 20;
+    top: 215;
+}
+
+#h3c{
+    box-shadow: 0 0 20px black;
+    color: red;
+    position: absolute;
+    z-index: 2;
+    left: 71%;
+    font-size: 40;
+    top: 215;
+}
+
+#v1{
+    position: absolute;
+    z-index: 2;
+    top: 5%;
+    left: 50;
+    right: 0;
+    bottom: 0;
+    width: 20%;
+    height: 60%;
+    box-shadow: 0 0 50px white;
+}
+
+#v1:hover{
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white;
+}
+
+#v2{
+    position: absolute;
+    z-index: 2;
+    top: 5%;
+    left: 700;
+    right: 0;
+    bottom: 0;
+    width: 20%;
+    height: 60%;
+    box-shadow: 0 0 50px white;
+}
+
+#v2:hover{
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white;
+}
+
+#v3{
+    position: absolute;
+    z-index: 2;
+    top: 5%;
+    left: 1350;
+    right: 0;
+    bottom: 0;
+    width: 20%;
+    height: 60%;
+    box-shadow: 0 0 50px white;
+}
+
+#v3:hover{
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white;
+}
+
+#v4{
+    position: absolute;
+    z-index: 2;
+    top: 90%;
+    left: 50;
+    right: 0;
+    bottom: 0;
+    width: 20%;
+    height: 60%;
+    box-shadow: 0 0 50px white;
+}
+
+#v4:hover{
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white;
+}
+
+#v5{
+    position: absolute;
+    z-index: 2;
+    top: 90%;
+    left: 700;
+    right: 0;
+    bottom: 0;
+    width: 20%;
+    height: 60%;
+    box-shadow: 0 0 50px white;
+}
+
+#v5:hover{
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white;
+}
+
+#v6{
+    position: absolute;
+    z-index: 2;
+    top: 90%;
+    left: 1350;
+    right: 0;
+    bottom: 0;
+    width: 20%;
+    height: 60%;
+    box-shadow: 0 0 50px white;
+}
+
+#v6:hover{
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white;
+}
+
+#v7{
+    position: absolute;
+    z-index: 2;
+    top: 175%;
+    left: 50;
+    right: 0;
+    bottom: 0;
+    width: 20%;
+    height: 60%;
+    box-shadow: 0 0 50px white;
+}
+
+#v7:hover{
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white;
+}
+
+#v8{
+    position: absolute;
+    z-index: 2;
+    top: 175%;
+    left: 700;
+    right: 0;
+    bottom: 0;
+    width: 20%;
+    height: 60%;
+    box-shadow: 0 0 50px white;
+}
+
+#v8:hover{
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white;
+}
+
+#v9{
+    position: absolute;
+    z-index: 2;
+    top: 175%;
+    left: 1350;
+    right: 0;
+    bottom: 0;
+    width: 20%;
+    height: 60%;
+    box-shadow: 0 0 50px white;
+}
+
+#v9:hover{
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white;
+}
+
+#v10{
+    position: absolute;
+    z-index: 2;
+    top: 260%;
+    left: 50;
+    right: 0;
+    bottom: 0;
+    width: 20%;
+    height: 60%;
+    box-shadow: 0 0 50px white;
+}
+
+#v10:hover{
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white;
+}
+
+#v11{
+    position: absolute;
+    z-index: 2;
+    top: 260%;
+    left: 700;
+    right: 0;
+    bottom: 0;
+    width: 20%;
+    height: 60%;
+    box-shadow: 0 0 50px white;
+}
+
+#v11:hover{
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white;
+}
+
+#v12{
+    position: absolute;
+    z-index: 2;
+    top: 260%;
+    left: 1350;
+    right: 0;
+    bottom: 0;
+    width: 20%;
+    height: 60%;
+    box-shadow: 0 0 50px white;
+}
+
+#v12:hover{
+    box-shadow: 0 0 5px white, 0 0 25px white, 0 0 50px white, 0 0 100px white;
+}
+
+.container img{
+    cursor: zoom-in;
+}
+
+input[type=checkbox]{
+    display: none;
+}
+
+input[type=checkbox]:checked ~ label > img{
+    transform: scale(1.2);
+}
+
+#p1{
+    position: absolute;
+    z-index: 1;
+    left: 90;
+    top: 600;
+    font-size: x-large;
+}
+
+#p2{
+    position: absolute;
+    z-index: 1;
+    left: 740;
+    top: 600;
+    font-size: x-large;
+}
+
+#p3{
+    position: absolute;
+    z-index: 1;
+    left: 1400;
+    top: 600;
+    font-size: x-large;
+}
+
+#p4{
+    position: absolute;
+    z-index: 1;
+    left: 90;
+    top: 1370;
+    font-size: x-large;
+}
+
+#p5{
+    position: absolute;
+    z-index: 1;
+    left: 740;
+    top: 1370;
+    font-size: x-large;
+}
+
+#p6{
+    position: absolute;
+    z-index: 1;
+    left: 1370;
+    top: 1370;
+    font-size: x-large;
+}
+
+#p7{
+    position: absolute;
+    z-index: 1;
+    left: 70;
+    top: 2140;
+    font-size: x-large;
+}
+
+#p8{
+    position: absolute;
+    z-index: 1;
+    left: 720;
+    top: 2140;
+    font-size: x-large;
+}
+
+#p9{
+    position: absolute;
+    z-index: 1;
+    left: 1370;
+    top: 2140;
+    font-size: x-large;
+}
+
+#p10{
+    position: absolute;
+    z-index: 1;
+    left: 70;
+    top: 2910;
+    font-size: x-large;
+}
+
+#p11{
+    position: absolute;
+    z-index: 1;
+    left: 720;
+    top: 2910;
+    font-size: x-large;
+}
+
+#p12{
+    position: absolute;
+    z-index: 1;
+    left: 1370;
+    top: 2910;
+    font-size: x-large;
+}
+
+#umpty{
+    position: absolute;
+    z-index: 1;
+    left: 650;
+    top: 200;
+    font-size: x-large;
+}
+
+#vide{
+    position: absolute;
+    color: black;
+    z-index: 1;
+    left: 840;
+    top: 100;
+    font-size: 100;
+}

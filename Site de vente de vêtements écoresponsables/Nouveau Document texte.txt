@@ -1,0 +1,42 @@
+caractéristiques de l'entreprise:
+-nom: Ecochic
+-secteur d'activité: vente de vêtements durables
+
+objectif du site:
+-promouvoir des vêtements durarbles
+-vendre en ligne
+éduquer les clients sur la mode et l'éthique
+
+publique cible:
+-consommateurs soucieux de l'environnement
+-jeunes adultes et familles
+-amateurs de mode durable
+
+structure du site
+-page d'accueil: bannières promotionnelles, nouvelles collections, appels à l'action(acheter maintanant…)
+-à propos: histoire de l'entreprise, mission et valeurs(éthique,durabilité)
+
+boutique:
+-catégories de produits(hommes, femmes, enfants)
+-filtres de recherche(taille, couleur, prix)
+-détails des produits(photo, descriptions, avis)
+
+blog:
+-articles sur la mode écoresponsable
+-conseils d'entretien des vêtements
+
+contact:
+-formulaire de contact
+-informations de contact(adresse, téléphone, email)
+-liens vers les réseaux sociaux
+
+design:
+-style visuel moderne et épuré
+-palette de couleurs: vert, beige, blanc
+
+fonctionnalités techniques:
+-panier d'achats: ajouter des produits, modifier la quantité, passer à caisse
+-formulaire de contact: validation et envoi des données
+-système de newsletter: insription pour recevoir des informations sur les offres
+
+nom de domaine: www.ecochic.com
